@@ -1,0 +1,23 @@
+
+body{
+    background-color: olivedrab;
+    }
+
+* {
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+h1 {
+        color: red;
+        font-size: 45px;
+}
+
+h2 {
+    color: coral;
+    font-size: 45px;
+}
+
+.intro {
+    font-size: 20px;
+}
